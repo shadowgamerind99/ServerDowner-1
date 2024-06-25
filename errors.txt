@@ -1,0 +1,68 @@
+[ERROR AT]: https://www.javatpoint.com/proxy-server-list cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://alexa.lr2b.com/proxylist.txt cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://sock5us.blogspot.com/2013/06/01-07-13-free-proxy-server-list.html#comment-form cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://proxydb.net/ cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/plz.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/plr5.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/pla5.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: https://free-proxy-list.com/ cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://johnstudio0.tripod.com/index1.htm 'utf-8' codec can't decode byte 0xbb in position 144: invalid start byte
+[ERROR AT]: http://sock5us.blogspot.com/2013/06/01-07-13-free-proxy-server-list.html#comment-form cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://alexa.lr2b.com/proxylist.txt cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://proxydb.net/ cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: https://free-proxy-list.com/ cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/plz.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/plr5.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/pla5.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://johnstudio0.tripod.com/index1.htm 'utf-8' codec can't decode byte 0xbb in position 144: invalid start byte
+[ERROR AT]: http://alexa.lr2b.com/proxylist.txt cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://proxydb.net/ cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://sock5us.blogspot.com/2013/06/01-07-13-free-proxy-server-list.html#comment-form cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: https://api.proxyscrape.com/?request=getproxies&proxytype=socks5&timeout=10000&country=all cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: https://free-proxy-list.com/ cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/plz.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/pla5.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/plr5.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://johnstudio0.tripod.com/index1.htm 'utf-8' codec can't decode byte 0xbb in position 144: invalid start byte
+[ERROR AT]: http://atomintersoft.com/anonymous_proxy_list 
+[ERROR AT]: http://atomintersoft.com/proxy_list_port_81 
+[ERROR AT]: http://atomintersoft.com/proxy_list_port_80 
+[ERROR AT]: http://atomintersoft.com/products/alive-proxy/proxy-list/com 
+[ERROR AT]: http://atomintersoft.com/proxy_list_port_8000 
+[ERROR AT]: http://atomintersoft.com/transparent_proxy_list 
+[ERROR AT]: http://atomintersoft.com/proxy_list_port_3128 
+[ERROR AT]: http://atomintersoft.com/proxy_list_domain_org 
+[ERROR AT]: http://atomintersoft.com/proxy_list_domain_net 
+[ERROR AT]: http://atomintersoft.com/proxy_list_domain_edu 
+[ERROR AT]: http://atomintersoft.com/proxy_list_domain_com 
+[ERROR AT]: http://atomintersoft.com/products/alive-proxy/socks5-list 
+[ERROR AT]: http://atomintersoft.com/products/alive-proxy/proxy-list/high-anonymity/ 
+[ERROR AT]: http://atomintersoft.com/products/alive-proxy/proxy-list/3128 
+[ERROR AT]: http://atomintersoft.com/high_anonymity_elite_proxy_list 
+[ERROR AT]: http://alexa.lr2b.com/proxylist.txt cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://proxydb.net/ cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://sock5us.blogspot.com/2013/06/01-07-13-free-proxy-server-list.html#comment-form cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: https://api.proxyscrape.com/?request=getproxies&proxytype=socks5&timeout=10000&country=all cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/plz.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: https://free-proxy-list.com/ cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/plr5.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://www.cybersyndrome.net/pla5.html cannot access local variable 'proxy' where it is not associated with a value
+[ERROR AT]: http://johnstudio0.tripod.com/index1.htm 'utf-8' codec can't decode byte 0xbb in position 144: invalid start byte
+[ERROR AT]: http://atomintersoft.com/transparent_proxy_list 
+[ERROR AT]: http://atomintersoft.com/products/alive-proxy/proxy-list/3128 
+[ERROR AT]: http://atomintersoft.com/proxy_list_port_80 
+[ERROR AT]: http://atomintersoft.com/proxy_list_domain_net 
+[ERROR AT]: http://atomintersoft.com/proxy_list_domain_com 
+[ERROR AT]: http://atomintersoft.com/proxy_list_domain_org 
+[ERROR AT]: http://atomintersoft.com/products/alive-proxy/proxy-list/high-anonymity/ 
+[ERROR AT]: http://atomintersoft.com/proxy_list_port_3128 
+[ERROR AT]: http://atomintersoft.com/proxy_list_domain_edu 
+[ERROR AT]: http://atomintersoft.com/products/alive-proxy/socks5-list 
+[ERROR AT]: http://atomintersoft.com/products/alive-proxy/proxy-list/com 
+[ERROR AT]: http://atomintersoft.com/anonymous_proxy_list 
+[ERROR AT]: http://atomintersoft.com/high_anonymity_elite_proxy_list 
+[ERROR AT]: http://atomintersoft.com/proxy_list_port_8000 
+[ERROR AT]: http://atomintersoft.com/proxy_list_port_81 
